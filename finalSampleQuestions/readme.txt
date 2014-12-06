@@ -1,0 +1,6 @@
+q1 defining methods (chapter 14)
+q2 array of primitive objects  (chapter 7) 
+q3 list of  objects (chapter 7 and 11)
+q4 defining classes (chapter 14) 
+q5 lists inside classes (chapter 14)
+q6 two-dimensional arrays (chapter 7)

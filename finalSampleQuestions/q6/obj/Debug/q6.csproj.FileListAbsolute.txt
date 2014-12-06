@@ -1,0 +1,2 @@
+C:\Users\hamoun\Google Drive\course-c#\quiz\final\complete\q6\bin\Debug\q6.exe.config
+C:\Users\hamoun\Google Drive\course-c#\quiz\final\complete\q6\obj\Debug\q6.csprojResolveAssemblyReference.cache

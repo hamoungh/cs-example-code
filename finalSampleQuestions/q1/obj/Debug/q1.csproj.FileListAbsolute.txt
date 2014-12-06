@@ -1,0 +1,2 @@
+C:\Users\hamoun\Google Drive\course-c#\quiz\final\complete\q1\bin\Debug\q1.exe.config
+C:\Users\hamoun\Google Drive\course-c#\quiz\final\questions\q1\bin\Debug\q1.exe.config
